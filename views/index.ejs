@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>Hello from Blog App</h1>
+    <div class="container">
+      <% for(var i = 0; i < posts.length; i++) { %>
+      <div class="blogPost">
+        <h3><a href="/post/<%=posts[i]._id%>"><%=posts[i].postName%></a></h3>
+        <p><%=posts[i].postContent%></p>
+        <p><%=posts[i]._id%></p>
+      </div>
+      <%} %>
+    </div>
+
+    <script></script>
+  </body>
+</html>
