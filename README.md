@@ -1,7 +1,7 @@
 
 # Express + MongoDB Blog Example
 
-This is a simple blog application built with Node.js, Express, and MongoDB. It includes basic functionality to create and fetch posts, and serves as an example for teaching students how to work with these technologies.
+This is a simple blog application built with Node.js, Express, and MongoDB. It includes basic functionality to create and fetch posts, and serves as an example for teaching students how to work with these technologies. *This is intentionally without refactoring*
 
 ## Features
 
