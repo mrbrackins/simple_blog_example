@@ -1,4 +1,4 @@
-````markdown
+
 # Express + MongoDB Blog Example
 
 This is a simple blog application built with Node.js, Express, and MongoDB. It includes basic functionality to create and fetch posts, and serves as an example for teaching students how to work with these technologies.
@@ -28,7 +28,7 @@ Before you can run this project, make sure you have the following installed:
    git clone https://github.com/yourusername/express-mongo-blog.git
    cd express-mongo-blog
    ```
-````
+
 
 2. Install the required dependencies:
 
