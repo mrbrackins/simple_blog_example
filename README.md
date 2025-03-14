@@ -1,5 +1,3 @@
-Here is a `README.md` that describes your project:
-
 ````markdown
 # Express + MongoDB Blog Example
 
